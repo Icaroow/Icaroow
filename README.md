@@ -1,4 +1,4 @@
-## Hi 👋! My name  and I'm a ..., from ....
+## Hi 👋! My name is Icaro Araujo!
 
 
 <div>
