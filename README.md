@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
 
-  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
   
 </div>
 
