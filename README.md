@@ -14,16 +14,8 @@
 ##
 
 <div>
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGl4Nm05cmJqeXRhMmNqcm16NDNoa3l2MDQ1eWJhb25ibXl5OHczcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oK257YkUTwuWc/giphy.gif"  
-  <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
   
 </div>
