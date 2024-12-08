@@ -40,15 +40,6 @@ Olá! Sou Ícaro, tenho 20 anos e sou natural de Imperatriz - MA, mas atualmente
 
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -91,7 +82,7 @@ Olá! Sou Ícaro, tenho 20 anos e sou natural de Imperatriz - MA, mas atualmente
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="160" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Icaroow&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -99,7 +90,7 @@ Olá! Sou Ícaro, tenho 20 anos e sou natural de Imperatriz - MA, mas atualmente
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" border-radiu="10px"
+      height="160"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icaroow&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
