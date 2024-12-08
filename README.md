@@ -24,7 +24,6 @@ Olá! meu nome é Ícaro, tenho 20 anos e sou natural de Imperatriz - MA. Atualm
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
 <img 
     align="left" 
     alt="HTML"
