@@ -3,6 +3,7 @@
 # 💻 Ícaro Milhomem
 
 Olá! Sou Ícaro, tenho 20 anos e sou natural de Imperatriz - MA, mas atualmente moro em Parauapebas - PA. Estou cursando Análise e Desenvolvimento de Sistemas na FADESA e meu objetivo é me especializar como desenvolvedor, com foco em Golang e Python para aplicações web, e Swift e Kotlin para mobile.
+#
 [Instagram](https://www.instagram.com/icro0/)
 
 
@@ -10,6 +11,7 @@ Olá! Sou Ícaro, tenho 20 anos e sou natural de Imperatriz - MA, mas atualmente
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
 <img 
     align="left" 
     alt="HTML"
@@ -89,7 +91,7 @@ Olá! Sou Ícaro, tenho 20 anos e sou natural de Imperatriz - MA, mas atualmente
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Icaroow&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -97,7 +99,7 @@ Olá! Sou Ícaro, tenho 20 anos e sou natural de Imperatriz - MA, mas atualmente
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="180" border-radiu="10px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icaroow&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
