@@ -32,14 +32,7 @@ Olá! meu nome é Ícaro, tenho 20 anos e sou natural de Imperatriz - MA. Atualm
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-<img
- align="left" 
-    alt="CPP"
-    title="CPP" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
-/>
+
 <img 
     align="left" 
     alt="CSS" 
@@ -90,6 +83,15 @@ Olá! meu nome é Ícaro, tenho 20 anos e sou natural de Imperatriz - MA. Atualm
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img
+ align="left" 
+    alt="CPP"
+    title="CPP" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
 />
 
 <br/>
