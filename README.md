@@ -2,7 +2,7 @@
 
 # 💻 Ícaro Milhomem
 
-Olá! Sou Ícaro, tenho 20 anos e sou de Imperatriz - MA. Atualmente, estudo Análise e Desenvolvimento de Sistemas na FADESA. Meu objetivo é me tornar um ótimo desenvolvedor, focando em Golang e Python para aplicações web, e Swift e Kotlin para mobile.
+Olá! Sou Ícaro, tenho 20 anos e sou de Imperatriz - MA. Atualmente moro em Parauapebas - PA e estudo Análise e Desenvolvimento de Sistemas na FADESA. Meu objetivo é me tornar um ótimo desenvolvedor, focando em Golang e Python para aplicações web, e Swift e Kotlin para mobile.
 
 
 
