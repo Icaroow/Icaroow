@@ -3,7 +3,8 @@
 # 💻 Ícaro Milhomem
 
 Olá! Sou Ícaro, tenho 20 anos e sou natural de Imperatriz - MA, mas atualmente moro em Parauapebas - PA. Estou cursando Análise e Desenvolvimento de Sistemas na FADESA e meu objetivo é me especializar como desenvolvedor, com foco em Golang e Python para aplicações web, e Swift e Kotlin para mobile.
-[Dev em Dev](https://www.instagram.com/icro0/)
+##
+[Instagram](https://www.instagram.com/icro0/)
 
 
 
