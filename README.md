@@ -7,7 +7,6 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -17,8 +16,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-## 📊 Estatísticas do GitHub
 ## 📊 Estatísticas do GitHub
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
