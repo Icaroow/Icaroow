@@ -19,11 +19,22 @@
 
 ## 📊 Estatísticas
 
-### 🔥 Streaks
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Icaroow&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icaroow&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+### 🔥 Streaks de Contribuição
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Icaroow&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+### 🏆 Troféus do GitHub
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Icaroow&theme=tokyonight&row=2&column=3"/>
+</div>
 
 
 
