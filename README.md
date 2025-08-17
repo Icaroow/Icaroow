@@ -2,10 +2,7 @@
 
 # 💻 Ícaro Milhomem
 
-Olá! Sou Ícaro, estudante de Análise e Desenvolvimento de Sistemas na FADESA. Tenho interesse em desenvolvimento web com Golang e Python, além de aplicações mobile com Swift e Kotlin.
-Estou sempre em busca de novos desafios e aprendizado constante, com o objetivo de me tornar um desenvolvedor completo e contribuir para projetos que unam tecnologia e inovação.
-#
-[Instagram](https://www.instagram.com/icro0/)
+ Olá, sou estudante de Análise e Desenvolvimento de Sistemas, atualmente focado em Python para desenvolvimento web, inteligência artificial e machine learning.
 
 
 ---
@@ -50,8 +47,8 @@ Estou sempre em busca de novos desafios e aprendizado constante, com o objetivo 
 
 <img
  align="left" 
-    alt="CPP"
-    title="CPP" 
+    alt="Python"
+    title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
