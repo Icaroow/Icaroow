@@ -1,38 +1,35 @@
 # 💻 Ícaro Milhomem
 
-Olá, sou estudante de Análise e Desenvolvimento de Sistemas, atualmente focado em Python para desenvolvimento web, inteligência artificial e machine learning.
+Olá, sou estudante de Análise e Desenvolvimento de Sistemas, focado em Python, desenvolvimento web, inteligência artificial e machine learning.
 
 ---
 
-### Tecnologias e áreas de interesse
+### 🚀 Tecnologias e áreas de interesse
 
-#### Sistemas Operacionais
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+#### 💻 Sistemas Operacionais
+![Linux](https://badgen.net/badge/icon/linux?icon=linux&label)
+![Arch Linux](https://badgen.net/badge/icon/arch-linux?icon=arch-linux&label)
+![macOS](https://badgen.net/badge/icon/apple?icon=apple&label)
 
-#### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+#### 📜 Linguagens
+![Python](https://badgen.net/badge/icon/python?icon=python&label)
+![Golang](https://badgen.net/badge/icon/go?icon=go&label)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+#### 🔧 Ferramentas / Frameworks
+![Git](https://badgen.net/badge/icon/git?icon=git&label)
+![VS Code](https://badgen.net/badge/icon/visualstudiocode?icon=visualstudiocode&label)
+![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)
+![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)
+![PostgreSQL](https://badgen.net/badge/icon/postgresql?icon=postgresql&label)
+![Tailwind CSS](https://badgen.net/badge/icon/tailwind?icon=tailwind&label)
+![Bootstrap](https://badgen.net/badge/icon/bootstrap?icon=bootstrap&label)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![Tailwind](https://badgen.net/badge/icon/tailwind?icon=tailwind&label)
-
-
-
-
-
-#### Cloud & AI
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FC8019?style=for-the-badge&logo=tensorflow&logoColor=white)
+#### ☁️ Cloud & AI
+![AWS](https://badgen.net/badge/icon/amazon?icon=amazon&label)
+![OpenAI](https://badgen.net/badge/icon/openai?icon=openai&label)
+![Machine Learning](https://badgen.net/badge/icon/tensorflow?icon=tensorflow&label)
 
 ---
 
-###  Contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icaro-milhomem-30216037b)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icaromilhomemjr02@gmail.com)
+### 📫 Contatos
+[![LinkedIn](https://badgen.net/badge/icon/linkedin?icon=linkedin&label)](https://www.linkedin.com/in/icaro-milhomem-30216037b) [![Email](https://badgen.net/badge/icon/gmail?icon=gmail&label)](mailto:icaromilhomemjr02@gmail.com)
