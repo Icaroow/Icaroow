@@ -35,27 +35,26 @@
 [LinkedIn](www.linkedin.com/in/icaro-milhomem-30216037b)
 
 [Email: icaromilhomemjr02@gmail.com](icaromilhomemjr02@gmail.com)
-
-### 🚀 Tecnologias que uso (Badgen)
+### 🚀 Tecnologias que uso (Badge.fyi)
 
 #### 💻 Sistemas Operacionais
-![Linux](https://badgen.net/badge/icon/linux?icon=linux&label)
-![Arch Linux](https://badgen.net/badge/icon/arch-linux?icon=arch-linux&label)
-![macOS](https://badgen.net/badge/icon/apple?icon=apple&label)
+![Linux](https://badge.fyi/badge/Linux/black?icon=linux)
+![Arch Linux](https://badge.fyi/badge/Arch_Linux/1793D1?icon=arch-linux)
+![macOS](https://badge.fyi/badge/macOS/000000?icon=apple)
 
 #### 📜 Linguagens
-![Python](https://badgen.net/badge/icon/python?icon=python&label)
-![Golang](https://badgen.net/badge/icon/go?icon=go&label)
+![Python](https://badge.fyi/badge/Python/3776AB?icon=python)
+![Golang](https://badge.fyi/badge/Go/00ADD8?icon=go)
 
 #### 🔧 Ferramentas
-![Git](https://badgen.net/badge/icon/git?icon=git&label)
-![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)
-![VS Code](https://badgen.net/badge/icon/visualstudiocode?icon=visualstudiocode&label)
-![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)
+![Git](https://badge.fyi/badge/Git/F05032?icon=git)
+![Docker](https://badge.fyi/badge/Docker/2496ED?icon=docker)
+![VS Code](https://badge.fyi/badge/VS_Code/0078D4?icon=visualstudiocode)
+![Visual Studio](https://badge.fyi/badge/Visual_Studio/5C2D91?icon=visualstudio)
 
 #### ☁️ Cloud & AI
-![AWS](https://badgen.net/badge/icon/amazon?icon=amazon&label)
-![OpenAI](https://badgen.net/badge/icon/openai?icon=openai&label)
+![AWS](https://badge.fyi/badge/AWS/232F3E?icon=amazon-aws)
+![OpenAI](https://badge.fyi/badge/OpenAI/412991?icon=openai)
 
 
 
