@@ -6,11 +6,11 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas, focado em **Pytho
 
 ### Tecnologias e Ferramentas
 
-** Sistemas Operacionais: **  
+## OS:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![macOS](https://img.shields.io/badge/macOS-FFFFFF?style=for-the-badge&logo=apple&logoColor=000000)
 
-** Ferramentas:**  
+## Ferramentas:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FC8019?style=for-the-badge&logo=tensorflow&logoColor=white)
