@@ -4,11 +4,10 @@ Olá, sou estudante de Análise e Desenvolvimento de Sistemas, atualmente focado
 
 ---
 
-### 🚀 Tecnologias e áreas de interesse
+### Tecnologias e áreas de interesse
 
 #### Sistemas Operacionais
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 #### Ferramentas
@@ -20,7 +19,7 @@ Olá, sou estudante de Análise e Desenvolvimento de Sistemas, atualmente focado
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-#### ☁Cloud & AI
+#### Cloud & AI
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FC8019?style=for-the-badge&logo=tensorflow&logoColor=white)
