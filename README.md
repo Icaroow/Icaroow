@@ -28,5 +28,5 @@ Olá, sou estudante de Análise e Desenvolvimento de Sistemas, atualmente focado
 ---
 
 ###  Contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icaro-milhomem-30216037b)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icaromilhomemjr02@gmail.com)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icaro-milhomem-30216037b)  
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icaromilhomemjr02@gmail.com)
