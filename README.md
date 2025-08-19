@@ -5,10 +5,7 @@
  Olá, sou estudante de Análise e Desenvolvimento de Sistemas, atualmente focado em Python para desenvolvimento web, inteligência artificial e machine learning.
 
 
----
-
-
-### 🛠️ Tecnologias e Ferramentas
+-------
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
