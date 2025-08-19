@@ -36,6 +36,9 @@
 
 [Email: icaromilhomemjr02@gmail.com](icaromilhomemjr02@gmail.com)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Icaroow&show_icons=true&theme=radical)
+
+
 
 
 
