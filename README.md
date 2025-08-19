@@ -9,8 +9,7 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas, focado em Python,
 **💻 Sistemas Operacionais:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arch-linux/arch-linux-original.svg" height="25" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="25"/>
-          
+![macOS](https://img.shields.io/badge/macOS-FFFFFF?style=for-the-badge&logo=apple&logoColor=000000)
 
 **📜 Linguagens:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" /> 
