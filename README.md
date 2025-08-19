@@ -8,7 +8,6 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas, focado em Python,
 
 ## Sistemas Operacionais:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) 
 ![macOS](https://img.shields.io/badge/macOS-FFFFFF?style=for-the-badge&logo=apple&logoColor=000000)
 
 ## Linguagens:  
