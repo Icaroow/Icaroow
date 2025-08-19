@@ -35,6 +35,7 @@
 [LinkedIn](www.linkedin.com/in/icaro-milhomem-30216037b)
 
 [Email: icaromilhomemjr02@gmail.com](icaromilhomemjr02@gmail.com)
+
 ### 🚀 Tecnologias que uso (Badge.fyi)
 
 #### 💻 Sistemas Operacionais
