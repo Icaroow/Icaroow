@@ -6,7 +6,7 @@
 
 
 -------
-### 🚀 Tecnologias que uso
+### Tecnologias:
 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -16,10 +16,18 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+### Estudando
+
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+
 
 --------
 # Contatos:
 [LinkedIn](www.linkedin.com/in/icaro-milhomem-30216037b)
+
 [Email: icaromilhomemjr02@gmail.com](icaromilhomemjr02@gmail.com)
 
 
