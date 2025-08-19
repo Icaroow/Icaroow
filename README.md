@@ -36,26 +36,6 @@
 
 [Email: icaromilhomemjr02@gmail.com](icaromilhomemjr02@gmail.com)
 
-### 🚀 Tecnologias que uso (Badge.fyi)
-
-#### 💻 Sistemas Operacionais
-![Linux](https://badge.fyi/badge/Linux/black?icon=linux)
-![Arch Linux](https://badge.fyi/badge/Arch_Linux/1793D1?icon=arch-linux)
-![macOS](https://badge.fyi/badge/macOS/000000?icon=apple)
-
-#### 📜 Linguagens
-![Python](https://badge.fyi/badge/Python/3776AB?icon=python)
-![Golang](https://badge.fyi/badge/Go/00ADD8?icon=go)
-
-#### 🔧 Ferramentas
-![Git](https://badge.fyi/badge/Git/F05032?icon=git)
-![Docker](https://badge.fyi/badge/Docker/2496ED?icon=docker)
-![VS Code](https://badge.fyi/badge/VS_Code/0078D4?icon=visualstudiocode)
-![Visual Studio](https://badge.fyi/badge/Visual_Studio/5C2D91?icon=visualstudio)
-
-#### ☁️ Cloud & AI
-![AWS](https://badge.fyi/badge/AWS/232F3E?icon=amazon-aws)
-![OpenAI](https://badge.fyi/badge/OpenAI/412991?icon=openai)
 
 
 
