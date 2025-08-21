@@ -6,7 +6,7 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas, focado em **Pytho
 
 ### Tecnologias e Ferramentas
 
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=yellow) 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
