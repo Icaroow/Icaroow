@@ -7,8 +7,8 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas, focado em **Pytho
 ### Tecnologias e Ferramentas
 
 ## OS:
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) 
-![macOS](https://img.shields.io/badge/macOS-FFFFFF?style=for-the-badge&logo=apple&logoColor=000000)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=000000)
 
 ## Ferramentas:
 
