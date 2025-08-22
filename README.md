@@ -14,7 +14,7 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas, focado em **Pytho
 
 ### Front-end
 
-![HTML & CSS](https://img.shields.io/badge/HTML-CSS-000000?style=for-the-badge&logo=html5&logoColor=white)
+![HTML & CSS](https://img.shields.io/badge/HTML-CSS-000000?style=for-the-badge&logo=html5&logoColor=orange)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
