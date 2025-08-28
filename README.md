@@ -35,9 +35,3 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas, focado em **Pytho
 ### Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icaro-milhomem-30216037b) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icaromilhomemjr02@gmail.com)
-
-
-##
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
