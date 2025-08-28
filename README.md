@@ -40,4 +40,5 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas, focado em **Pytho
 ##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Icaroow&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Icaroow)](https://github.com/anuraghazra/github-readme-stats)
 
