@@ -10,7 +10,6 @@ Estudante de ADS, me especializando em Ruby
 ![Sinatra](https://img.shields.io/badge/Sinatra-000000?style=for-the-badge&logo=ruby&logoColor=white)
 ---
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ---
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
